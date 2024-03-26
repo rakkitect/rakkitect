@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakkitect
 - 👀 I’m interested in networks, cybersecurity and cloud concepts.
-- 🌱 I’m currently learning Linux, AWS and Python.
+- 🌱 I’m currently learning server management /w Linux, programming in Python and Cisco networks.
 
 <!---
 rakkitect/rakkitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
